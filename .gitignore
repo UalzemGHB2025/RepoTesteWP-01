@@ -1,0 +1,16 @@
+#WordPress
+
+#Ignore everything in the root excerpt the "wp-content" directory.
+/*
+wp-content/uploads
+!.gitignore
+!wp-content
+
+# Other commons extensions:
+*.log
+*.sql
+*.gz
+*.zip
+*.tar
+*.tar.gz
+*.tar.bz2
