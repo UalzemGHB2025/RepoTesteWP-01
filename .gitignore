@@ -5,6 +5,7 @@
 wp-content/uploads
 !.gitignore
 !wp-content
+!oiteste.php
 
 # Other commons extensions:
 *.log
